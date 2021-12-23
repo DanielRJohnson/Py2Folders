@@ -31,7 +31,7 @@ If your .py file adheres to these large restrictions, it can be transpiled.
 ### Usage
 1. Clone this Repo
 2. Create your Python file to transpile
-3. run `Python3 <path_to_pyfile>` which will create a new directory `<pyfile without .py>` in the same folder
+3. run `Python3 py2Folders.py <path_to_pyfile>` which will create a new directory `<pyfile without .py>` in the same folder
 4. (Optional) Install [Folders.py](https://github.com/SinaKhalili/Folders.py) and run `Folders <generated folder>`
 
 Congrats! You have translated your Python source file to a construct of entirely folders that *still runs*.
